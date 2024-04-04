@@ -1,0 +1,16 @@
+/* General*/
+
+body {
+    font-family: "Raleway", sans-serif;
+  }
+
+#Main-Section{
+    background-image: url("../img/base.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+#educacion{
+    background-color: cadetblue;
+}
