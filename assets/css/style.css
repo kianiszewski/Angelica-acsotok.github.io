@@ -14,3 +14,6 @@ body {
 #educacion{
     background-color: cadetblue;
 }
+.card{
+    border-radius: 25% 10%;
+}
